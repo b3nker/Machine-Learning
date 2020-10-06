@@ -1,0 +1,56 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Diff\351rence avec le Deep Learning}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Apprentissage Supervis\351}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Apprentissage Non-Supervis\351}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{R\351gression Lin\351aire \340 Une Variable}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Mod\350le et Fonction de Co\373t}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{"Parameter Learning"}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Descente de Gradient}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Descente de Gradient Dans le Cas d'une R\351gression Lin\351aire}{subsection.2.2}% 9
+\BOOKMARK [1][-]{section.3}{Rappels : Alg\350bre Lin\351aire}{}% 10
+\BOOKMARK [1][-]{section.4}{R\351gression lin\351aire \340 plusieurs variables}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{"Multivariate Linear Regression"}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Am\351liorer la convergence}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{\311quation normale}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Rappels : Matlab/Octave}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{Op\351rations de base}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.2}{Calculs sur les donn\351es}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.3}{Afficher des graphes}{section.5}% 18
+\BOOKMARK [1][-]{section.6}{R\351gression logistique}{}% 19
+\BOOKMARK [2][-]{subsection.6.1}{Classification et Repr\351sentation}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.2}{Fonction de co\373t}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.3}{Descente de gradient}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.4}{Classification multi-classe : "One vs All"}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.5}{Optimisation avanc\351e}{section.6}% 24
+\BOOKMARK [1][-]{section.7}{R\351gularisation}{}% 25
+\BOOKMARK [2][-]{subsection.7.1}{Le probl\350me du sur-apprentissage "Overfitting"\)}{section.7}% 26
+\BOOKMARK [2][-]{subsection.7.2}{Fonction de co\373t}{section.7}% 27
+\BOOKMARK [2][-]{subsection.7.3}{R\351gression lin\351aire r\351gularis\351}{section.7}% 28
+\BOOKMARK [2][-]{subsection.7.4}{R\351gression logistique r\351gularis\351}{section.7}% 29
+\BOOKMARK [1][-]{section.8}{R\351seaux de Neurones: Repr\351sentation}{}% 30
+\BOOKMARK [1][-]{section.9}{R\351seaux de Neurones: Apprentissage}{}% 31
+\BOOKMARK [2][-]{subsection.9.1}{Fonction de co\373t}{section.9}% 32
+\BOOKMARK [2][-]{subsection.9.2}{Algorithme de R\351tro-propagation}{section.9}% 33
+\BOOKMARK [2][-]{subsection.9.3}{La R\351tro-propagation en Pratique}{section.9}% 34
+\BOOKMARK [1][-]{section.10}{Conseils pour appliquer les algorithmes de Machine Learning}{}% 35
+\BOOKMARK [2][-]{subsection.10.1}{\311valuer une hypoth\350se}{section.10}% 36
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Regression lin\351aire}{subsection.10.1}% 37
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Regression logistique \(classification\)}{subsection.10.1}% 38
+\BOOKMARK [3][-]{subsubsection.10.1.3}{S\351lectionner le mod\350le}{subsection.10.1}% 39
+\BOOKMARK [2][-]{subsection.10.2}{Biais vs Variance}{section.10}% 40
+\BOOKMARK [2][-]{subsection.10.3}{Courbe d'apprentissage}{section.10}% 41
+\BOOKMARK [3][-]{subsubsection.10.3.1}{Fort biais}{subsection.10.3}% 42
+\BOOKMARK [3][-]{subsubsection.10.3.2}{Forte variance}{subsection.10.3}% 43
+\BOOKMARK [2][-]{subsection.10.4}{Focus sur les conseils}{section.10}% 44
+\BOOKMARK [1][-]{section.11}{"Support Vector Machine" \(Machine \340 vecteurs de support\)}{}% 45
+\BOOKMARK [2][-]{subsection.11.1}{Kernel}{section.11}% 46
+\BOOKMARK [2][-]{subsection.11.2}{Influence des param\350tres}{section.11}% 47
+\BOOKMARK [2][-]{subsection.11.3}{R\351gression logistique vs SVM}{section.11}% 48
+\BOOKMARK [1][-]{section.12}{Apprentissage Non-Supervis\351}{}% 49
+\BOOKMARK [2][-]{subsection.12.1}{Algorithme de partionnement des donn\351es: K-Means}{section.12}% 50
+\BOOKMARK [2][-]{subsection.12.2}{R\351duction Dimensionnelle}{section.12}% 51
+\BOOKMARK [2][-]{subsection.12.3}{Analyse en composantes principales \(PCA\)}{section.12}% 52
+\BOOKMARK [1][-]{section.13}{D\351tection d'anomalies}{}% 53
+\BOOKMARK [1][-]{section.14}{Syst\350mes de Recommandations}{}% 54
+\BOOKMARK [1][-]{section.15}{Descente de gradient avec des grands jeux de donn\351es}{}% 55
+\BOOKMARK [1][-]{section.16}{Application: Reconnaissance d'images}{}% 56

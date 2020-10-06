@@ -1,0 +1,86 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Différence avec le Deep Learning}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Apprentissage Supervisé}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Apprentissage Non-Supervisé}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Régression Linéaire à Une Variable}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Modèle et Fonction de Coût}{5}{subsection.2.1}%
+\contentsline {paragraph}{Fonction de coût}{5}{section*.3}%
+\contentsline {paragraph}{Fonction de coût : Intuitions}{5}{section*.4}%
+\contentsline {subsection}{\numberline {2.2}"Parameter Learning"}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Descente de Gradient}{5}{subsubsection.2.2.1}%
+\contentsline {paragraph}{Descente de gradient : Intuitions}{6}{section*.5}%
+\contentsline {subsubsection}{\numberline {2.2.2}Descente de Gradient Dans le Cas d'une Régression Linéaire}{6}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Rappels : Algèbre Linéaire}{7}{section.3}%
+\contentsline {paragraph}{Addition de matrices}{7}{section*.6}%
+\contentsline {paragraph}{Multiplication de matrices}{7}{section*.7}%
+\contentsline {paragraph}{Propriétés sur la multiplication de matrices}{7}{section*.8}%
+\contentsline {paragraph}{Matrice Inverse}{7}{section*.9}%
+\contentsline {paragraph}{Transposée d'une matrice}{7}{section*.10}%
+\contentsline {section}{\numberline {4}Régression linéaire à plusieurs variables}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}"Multivariate Linear Regression"}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Améliorer la convergence}{8}{subsection.4.2}%
+\contentsline {paragraph}{Mise à l'échelle des paramètres :}{8}{section*.11}%
+\contentsline {subsection}{\numberline {4.3}Équation normale}{8}{subsection.4.3}%
+\contentsline {paragraph}{Avantages et quand l'utiliser :}{9}{section*.12}%
+\contentsline {section}{\numberline {5}Rappels : Matlab/Octave}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Opérations de base}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Calculs sur les données}{10}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Afficher des graphes}{11}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Régression logistique}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Classification et Représentation}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Fonction de coût}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Descente de gradient}{13}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Classification multi-classe : "One vs All"}{14}{subsection.6.4}%
+\contentsline {paragraph}{One vs All}{14}{section*.13}%
+\contentsline {subsection}{\numberline {6.5}Optimisation avancée}{15}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Régularisation}{16}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Le problème du sur-apprentissage "Overfitting")}{16}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Fonction de coût}{16}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Régression linéaire régularisé}{16}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Régression logistique régularisé}{17}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Réseaux de Neurones: Représentation}{18}{section.8}%
+\contentsline {section}{\numberline {9}Réseaux de Neurones: Apprentissage}{20}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Fonction de coût}{20}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Algorithme de Rétro-propagation}{20}{subsection.9.2}%
+\contentsline {paragraph}{Intuition}{20}{section*.14}%
+\contentsline {paragraph}{Algorithme}{20}{section*.15}%
+\contentsline {subsection}{\numberline {9.3}La Rétro-propagation en Pratique}{21}{subsection.9.3}%
+\contentsline {paragraph}{Dérouler les paramètres}{21}{section*.16}%
+\contentsline {paragraph}{Vérifier le gradient}{21}{section*.17}%
+\contentsline {paragraph}{Initialisation aléatoire}{21}{section*.18}%
+\contentsline {paragraph}{En résumé}{21}{section*.19}%
+\contentsline {section}{\numberline {10}Conseils pour appliquer les algorithmes de Machine Learning}{22}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Évaluer une hypothèse}{22}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}Regression linéaire}{22}{subsubsection.10.1.1}%
+\contentsline {subsubsection}{\numberline {10.1.2}Regression logistique (classification)}{22}{subsubsection.10.1.2}%
+\contentsline {subsubsection}{\numberline {10.1.3}Sélectionner le modèle}{22}{subsubsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.2}Biais vs Variance}{23}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Courbe d'apprentissage}{23}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}Fort biais}{23}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}Forte variance}{24}{subsubsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.4}Focus sur les conseils}{24}{subsection.10.4}%
+\contentsline {paragraph}{Réseaux de neurones et sur-apprentissage}{24}{section*.20}%
+\contentsline {section}{\numberline {11}"Support Vector Machine" (Machine à vecteurs de support)}{25}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Kernel}{25}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Influence des paramètres}{25}{subsection.11.2}%
+\contentsline {paragraph}{C}{25}{section*.21}%
+\contentsline {paragraph}{$\sigma ^2$}{26}{section*.22}%
+\contentsline {subsection}{\numberline {11.3}Régression logistique vs SVM}{26}{subsection.11.3}%
+\contentsline {section}{\numberline {12}Apprentissage Non-Supervisé}{27}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Algorithme de partionnement des données: K-Means}{27}{subsection.12.1}%
+\contentsline {paragraph}{Objectif d'optimisation}{27}{section*.23}%
+\contentsline {paragraph}{Initialisation aléatoire}{27}{section*.24}%
+\contentsline {paragraph}{Choisir le nombre de clusters}{27}{section*.25}%
+\contentsline {subsection}{\numberline {12.2}Réduction Dimensionnelle}{28}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Analyse en composantes principales (PCA)}{28}{subsection.12.3}%
+\contentsline {paragraph}{Algorithme}{28}{section*.26}%
+\contentsline {paragraph}{Reconstruire le modèle}{28}{section*.27}%
+\contentsline {paragraph}{Choisir le nombre de composantes principales}{28}{section*.28}%
+\contentsline {section}{\numberline {13}Détection d'anomalies}{29}{section.13}%
+\contentsline {paragraph}{Détection d'anomalies vs Apprentissage supervisé}{29}{section*.29}%
+\contentsline {section}{\numberline {14}Systèmes de Recommandations}{30}{section.14}%
+\contentsline {paragraph}{Formulation d'un problème: Recommandation de films}{30}{section*.30}%
+\contentsline {section}{\numberline {15}Descente de gradient avec des grands jeux de données}{31}{section.15}%
+\contentsline {paragraph}{Map-Reduce}{31}{section*.31}%
+\contentsline {section}{\numberline {16}Application: Reconnaissance d'images}{32}{section.16}%
